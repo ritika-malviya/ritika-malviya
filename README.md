@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋,I am Ritika Malviya From Mumbai Maharashtra.</h1>
-<h3 align="left">Pursuing my Master's degree in Statistics from Ramniranjan Jhunjhunwala College.</h3>
+<h3 align="left">Currently, pursuing my Master's degree in Statistics from Ramniranjan Jhunjhunwala College.</h3>
 
 **Seeking an opportunity to leverage my diverse skills and experience in the field of Statistics & Data Analytics. My aim is to utilize my skills and analytical abilities to help an organization.**
 
